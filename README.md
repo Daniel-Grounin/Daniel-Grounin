@@ -1,1 +1,1 @@
-![](https://github.com/Daniel-Grounin/Gif/blob/main/giphy.gif)
+![](https://github.com/Daniel-Grounin/Profile-Gif/blob/main/giphy.gif)
