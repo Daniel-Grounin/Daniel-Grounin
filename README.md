@@ -1,73 +1,64 @@
-# 👨‍💻 Daniel Grounin
+# 👋 Hi, I'm Daniel Grounin!
 
-**`Embedded Software Engineer | C++ | Python`**
-
-I am a passionate **Embedded Software Engineer** focused on building innovative real-time systems, embedded software solutions, and robotics applications. I have extensive experience in **C/C++**, **Python**, and **IoT systems**, working on projects that range from GPS tracking systems to drone surveillance platforms.
-
-I enjoy diving deep into microcontrollers, cloud integration, and real-time data processing. I am always looking for opportunities to build and share solutions that solve real-world problems.
+💻 **Software Engineer** from Israel, passionate about creating innovative real-time systems and embedded software solutions.  
+🎓 **Graduated** in Software Engineering from **SCE - Sami Shamoon College of Engineering**  
+🔧 Skilled in **C++**, **Python**, and IoT systems, with experience in **data-driven applications**  
+🌍 Exploring the world of **embedded development** and **3D visualization** projects  
+📚 Always learning about the latest in **tech** and **real-time systems**  
+💬 Let's connect on:
 
 <p align="left">
-   <a href="https://github.com/Daniel-Grounin">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Daniel-Grounin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Daniel-Grounin?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Daniel-Grounin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="mailto:dani.grunin@gmail.com"><img src="https://img.shields.io/badge/Email-dani.grunin@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/danielgru"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/>
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 
-<!-- STM32 and ESP32 with custom images -->
-<img align="left" alt="STM32" width="30px" style="padding-right:10px;" src="https://www.itvoice.in/wp-content/uploads/2013/07/STMicroelectronics-Allows-Mobile-Devices-to-Stream-Full-HD-Video-to-TVs-2.jpg?w=640"/>
-<img align="left" alt="ESP32" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png"/>
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"/>
+<img align="left" alt="STM32" width="40px" style="padding-right:10px;" src="https://www.itvoice.in/wp-content/uploads/2013/07/STMicroelectronics-Allows-Mobile-Devices-to-Stream-Full-HD-Video-to-TVs-2.jpg?w=640"/>
+<img align="left" alt="ESP32" width="40px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png"/>
+<img align="left" alt="Raspberry Pi" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+<img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png"/>
 
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg"/>
+<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=74402&format=png"/>
+
 <br />
 
 
 ---
 
-### 🚀 Projects
-
-- **Zeus Vision**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-808080?style=flat&logo=YOLO) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-  A drone surveillance system using **YOLO** for real-time object detection and **OpenCV** for video processing.  
-  - **Key Features:** Real-time detection, low-latency video streaming, and object tracking  
-  - **Results:** Reduced latency by 60% by switching streaming protocols from RTMP to RTSP.  
-  - [GitHub Repository](https://github.com/Daniel-Grounin/Zeus-Vision) | [Watch Video](https://youtu.be/LXfLGuXEXNU?si=Q6tMIlCVGmM9B0DI)
-
-- **StarLink Tracker**  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![OpenFrameworks](https://img.shields.io/badge/OpenFrameworks-111111?style=flat&logo=openframeworks&logoColor=white)  
-  Real-time 3D visualization of Starlink satellites using **OpenFrameworks** and multithreading in **C++**.  
-  - **Key Features:** 3D visualization, real-time tracking of Starlink satellites using CelesTrak data  
-  - **Results:** Reduced buffered satellite updates by 50% using multithreading.  
-  - [GitHub Repository](https://github.com/Daniel-Grounin/StarLink-Tracker) | [Watch Video](https://youtu.be/qDQ7yQsSQH8?si=Ab2gsCIDkxD0kZ0E)
-
-- **Real-Time GPS Tracker**  
-  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-  Developed a GPS tracking system using **ESP32** and **NEO-6M GPS**, connected to **Firebase** for real-time location updates.  
-  - **Key Features:** Real-time GPS location tracking, cloud integration with Firebase  
-  - [GitHub Repository](https://github.com/Daniel-Grounin/Real-Time-GPS-Tracker)
-
+### 💡 Random Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-Grounin&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-Grounin&theme=tokyonight)
 
-### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Grounin&show_icons=true&theme=gruvbox)
 ---
 
-### Connect with Me:
-- 📧 Email: [dani.grunin@gmail.com](mailto:dani.grunin@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/danielgru)
+### 📊 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Grounin&show_icons=true&theme=tokyonight)
 
+---
+
+### 🎮 Fun Facts
+- 🐕 **Richie**, my French bulldog, is my loyal coding sidekick, often snoring away during long debugging sessions.
+- 🛹 Built my own **electric skateboard** as a fun DIY robotics project—always exploring autonomous tech!
+- 🚀 Fascinated by all things **space tech**—whether it's the latest rocket launch or advancements in satellite technology.
+- 🌍 Passionate about **open-source**—sharing knowledge and contributing to innovative projects that can impact the tech world.
+
+---
+
+---
