@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, I'm Daniel Grounin!
+# 👨‍💻 Hi, I'm Daniel Grounin!
 
 💻 **Software Engineer** from Israel, passionate about creating innovative real-time systems and embedded software solutions.  
 🎓 **Graduated** in Software Engineering from **SCE - Sami Shamoon College of Engineering**  
