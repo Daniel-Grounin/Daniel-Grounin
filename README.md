@@ -32,7 +32,8 @@
 <img align="left" alt="Firebase" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="MySQL" width="45px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg"/>
 <img align="left" alt="MongoDB" width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=74402&format=png"/>
-<br />
+
+<br /><br />  <!-- Add this line break to push the next content down -->
 
 
 ---
