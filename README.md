@@ -40,7 +40,8 @@
 ---
 
 ### 💡 Random Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://zenquotes.io/api/random)
+
 
 ---
 
@@ -80,8 +81,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 ---
