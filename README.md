@@ -42,7 +42,6 @@
 ![Quote](https://img.shields.io/badge/Quote-"Progress_lies_in_advancing_toward_what_will_be."-brightgreen)
 
 
-
 ---
 
 ### 🏆 GitHub Trophies
