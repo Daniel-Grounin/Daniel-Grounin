@@ -53,12 +53,35 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Grounin&show_icons=true&theme=tokyonight)
 
 ---
+### 📺 Featured Videos
 
-### 🎮 Fun Facts
-- 🐕 **Richie**, my French bulldog, is my loyal coding sidekick, often snoring away during long debugging sessions.
-- 🛹 Built my own **electric skateboard** as a fun DIY robotics project—always exploring autonomous tech!
-- 🚀 Fascinated by all things **space tech**—whether it's the latest rocket launch or advancements in satellite technology.
-- 🌍 Passionate about **open-source**—sharing knowledge and contributing to innovative projects that can impact the tech world.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/qDQ7yQsSQH8?si=3YAXVyFDAneIQqq4" target="_blank">
+        <img src="https://img.youtube.com/vi/qDQ7yQsSQH8/0.jpg" alt="Satellite Visualization" width="240" height="135">
+      </a>
+      <br>
+      <b>Satellite Visualization</b>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/LXfLGuXEXNU?si=hPwuCNg89Ru0N0H6" target="_blank">
+        <img src="https://img.youtube.com/vi/LXfLGuXEXNU/0.jpg" alt="Spotify Widget" width="240" height="135">
+      </a>
+      <br>
+      <b>Spotify Widget</b>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/nKfgezC9OUU" target="_blank">
+        <img src="https://img.youtube.com/vi/nKfgezC9OUU/0.jpg" alt="Drone Surveillance System" width="240" height="135">
+      </a>
+      <br>
+      <b>Drone Surveillance System</b>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
-
