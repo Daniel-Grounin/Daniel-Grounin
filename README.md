@@ -13,7 +13,6 @@
    <a href="https://www.linkedin.com/in/danielgru"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
 ---
 
 ### 🧰 Languages and Tools
@@ -40,7 +39,8 @@
 ---
 
 ### 💡 Random Developer Quote
-![Quote](https://zenquotes.io/api/random)
+![Quote](https://img.shields.io/badge/Quote-"Progress_lies_in_advancing_toward_what_will_be."-brightgreen)
+
 
 
 ---
