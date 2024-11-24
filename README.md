@@ -3,10 +3,11 @@
 💻 **Software Engineer** from Israel, passionate about creating innovative real-time systems and embedded software solutions.  
 🎓 **Graduated** in Software Engineering from **SCE - Sami Shamoon College of Engineering**  
 🔧 Skilled in **C++**, **Python**, and IoT systems, with experience in **data-driven applications**  
-🌍 Exploring the world of **embedded development**  
-📚 Always learning about the latest in **tech** and **real-time systems**  
+🌍 Exploring the world of **embedded development** and **cybersecurity**  
+🔒 **Special Interest:** Combining embedded systems with cybersecurity to develop robust, secure, and scalable solutions.  
+📚 Always learning about the latest in **tech**, **real-time systems**, and **cyber protection**  
+<br>
 💬 Let's connect on:
-
 <p align="left">
    <a href="mailto:dani.grunin@gmail.com"><img src="https://img.shields.io/badge/Email-dani.grunin@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/danielgru"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
