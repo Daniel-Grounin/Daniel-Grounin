@@ -1,11 +1,15 @@
 # 👨‍💻 Hi, I'm Daniel Grounin!
 
-💻 **Software Engineer** from Israel, passionate about creating innovative real-time systems and embedded software solutions.  
-🎓 **Graduated** in Software Engineering from **SCE - Sami Shamoon College of Engineering**  
-🔧 Skilled in **C++**, **Python**, and IoT systems, with experience in **data-driven applications**  
-🌍 Exploring the world of **embedded development** and **cybersecurity**  
-🔒 **Special Interest:** Combining embedded systems with cybersecurity to develop robust, secure, and scalable solutions.  
-📚 Always learning about the latest in **tech**, **real-time systems**, and **cyber protection**  
+💻 Software Engineer from Israel, passionate about R&D, building innovative development tools, and enhancing automation workflows.
+
+🎓 Graduated in Software Engineering from SCE - Sami Shamoon College of Engineering.
+
+🔧 Skilled in C++, Python, Java, and Bash, with experience in CI/CD, automation, and scalable software development.
+
+🚀 Exploring the world of tool development, infrastructure automation, and software optimization.
+
+📚 Always learning about the latest in software architecture, continuous integration & deployment, and developer productivity.
+
 <br>
 💬 Let's connect on:
 <p align="left">
