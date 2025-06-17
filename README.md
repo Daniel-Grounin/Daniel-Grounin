@@ -4,7 +4,7 @@
 
 🎓 Graduated in Software Engineering from SCE - Sami Shamoon College of Engineering.
 
-🔧 Skilled in C++, Python, Java, and Bash, with experience in CI/CD, automation, and scalable software development.
+🔧 Skilled in JS, Python, Java, C++, and Bash, with experience in CI/CD, automation, and scalable software development.
 
 🚀 Exploring the world of tool development, infrastructure automation, and software optimization.
 
